@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @asiddharthcse-debug
+/src/backend/database.py      @asiddharthcse-debug
+/src/backend/routers/auth.py  @asiddharthcse-debug
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @asiddharthcse-debug
